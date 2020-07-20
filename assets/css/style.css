@@ -1,5 +1,13 @@
+* {
+  font-family ;:
+}
+
 body {
-  background-color: silver;
+  background-color: rgb(65, 65, 65);
+}
+
+.card {
+  background-color: #a4d4f5
 }
 
 hr {
