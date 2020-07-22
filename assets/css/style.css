@@ -1,3 +1,19 @@
+#github-mark {
+   margin: -5px 1px;
+}
+
+#github-mark:hover {
+  opacity: 0.7
+}
+
+#linkedin {
+  margin: -3px 0px;
+}
+
+#linkedin:hover {
+ opacity: 0.7
+}
+
 body {
   background-color: rgb(65, 65, 65);
 }
