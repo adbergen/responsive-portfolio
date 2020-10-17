@@ -1,55 +1,70 @@
-# Responsiveness Portfolio
+<h1 align="center">
+Responsive Portfolio
+</h1>
+<h4 align="center" style="margin-bottom:10px">Be sure to star my configuration repo so you can keep up to date on any daily progress!</h4>
+<div align="center">
+  <h4>
+    </a>
+    <a href="https://github.com/adbergen/responsive-portfolio/stargazers"><img src="https://img.shields.io/github/stars/adbergen/responsive-portfolio.svg?style=plasticr"/></a>
+    <a href="https://github.com/adbergen/responsive-portfolio/commits/master"><img src="https://img.shields.io/github/last-commit/adbergen/responsive-portfolio.svg?style=plasticr"/></a>
+        <a href="https://github.com/adbergen/responsive-portfolio/commits/master"><img src="https://img.shields.io/github/commit-activity/y/adbergen/responsive-portfolio.svg?style=plasticr"/></a>
+</h4>
+<br>
+</div>
+<p align="center"><font size="3">
+This is a responsive portfolio application</p>
+<div align="center"><a name="menu"></a>
+  <h4>
+    <a href="https://github.com/adbergen/responsive-portfolio">
+      Github Repository
+    </a>
+<span> | </span>
+<a href="https://adbergen.github.io/responsive-portfolio/">
+      Github Pages
+    </a>
+  </h4>
+</div>
 
-- This is a mobile responsiveness portfolio site for Anthony Bergen's portfolio, contact information, and about
+![Screenshot of application demo](assets/images/demo.png)
 
-- Bootstrap's grid system is utilized
+<hr>
 
-- On xs screen, content takes up entire screen
+## Table of Contents
 
-- On sm and larger screens, some margins are on the left and right
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technologies](#technologies)
+- [Contributing](#contributing)
 
-- HTML validation service used to ensure each page has valid HTML
+<hr>
 
----
+## Installation
 
-## File Contents
+- Open the index.html file in your web browser
 
-- README.md (this file)
+<hr>
 
-- style.css
+## Usage
 
-- index.html
-- contact.html
-- portfolio.html
+- This is a portfolio application
 
----
+<hr>
 
-## Languages Used
-- HTML/HTML5 is used for structure of information for webpage
+## Technologies
 
-- CSS and Bootstrap are used for styling of the website
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>Bootstrap</li>
+<li>GitHub</li>
+</ul>
 
----
+<hr>
 
-## Requirements Met
+## Contributing
 
-- Functional, deployed application
+- Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-- GitHub repository with README describing the project
+- Contributors: Anthony Bergen
 
-- Navbar consistent on each page.
-
-- Navbar on each page contains links to Home/About, Contact, and Portfolio pages.
-
-- All links work.
-
-- Semantic html used.
-
-- Each page has valid and correct HTML. (use a validation service)
-
-- Contains personalized information. (bio, name, images, links to social media, etc.)
-
-- Properly utilizes Bootstrap components and grid system.
-
----
----
+<hr><hr>
